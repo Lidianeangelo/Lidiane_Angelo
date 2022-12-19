@@ -24,7 +24,7 @@
  
 ## 🔛 Projetos
 <p align="center">
-  <a href="https://pontoverde.netlify.app/" target="_blank"><img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
+  <a href="https://pontoverde.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/></a> 
    </p>
 
 <br><br>
