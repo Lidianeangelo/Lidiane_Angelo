@@ -20,6 +20,8 @@
 
 
 <br></bh>
+<h2 align="center">Meus Projetos</h2>
+<a href="https://pontoverde.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
