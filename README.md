@@ -26,7 +26,7 @@
    <a href="https://pontoverde.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"/></a> 
    </p>
 
-<br><br>
+<br>
  
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
